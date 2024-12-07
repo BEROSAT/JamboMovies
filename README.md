@@ -98,7 +98,7 @@
   },
    "8":{
   "id": "8",
-  "name": ""TELE PUISSANCE",
+  "name": "TELE PUISSANCE",
   "description": "Radio Tele Puissance TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8560/8560/chunklist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5MzBf/radiotelepuissance.png",
