@@ -1,9 +1,9 @@
 # JamboMovies
 {
-  "0":{
+  "1":{
   "id":"1",
   "name":"MYTIME MOVIES",
-  "description":"Mytime Movies est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description":"01",
   "live_url":"https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
   "thumbnail":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg",
   "categorie":"MOVIES",
@@ -12,8 +12,56 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "1":{
-  "id": "1",
+ "2":{ 
+  "id":"2",
+  "name":"HBO TV",
+  "description":"02",
+  "live_url":"http://fl5.moveonjoy.com/HBO/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzc1NTBf/HBO.jpg",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "3":{ 
+  "id":"3",
+  "name":"HBO 2",
+  "description":"03",
+  "live_url":"http://fl5.moveonjoy.com/HBO_2/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzc2MzRf/HBO2TV.png",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "4":{ 
+  "id":"4",
+  "name":"HBO COMEDY",
+  "description":"04",
+  "live_url":"http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzc3MTRf/hboComedy.jpg",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }, 
+  "5":{ 
+  "id":"5",
+  "name":"HBO FAMILY",
+  "description":"05",
+  "live_url":"http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzc4MTRf/hbofamily.png",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }, 
+  "6":{
+  "id": "6",
   "name": "CINE MAX",
   "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8",
@@ -24,8 +72,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "2":{
-  "id": "2",
+  "7":{
+  "id": "7",
   "name": "PLEX TV",
   "description": "PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "http://41.223.30.250:5000/plextv/@plextv/chunklist_w319266551.m3u8",
@@ -36,8 +84,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "3":{
-  "id": "3",
+  "8":{
+  "id": "8",
   "name": "FILM FICTION",
   "description": "Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8",
@@ -48,8 +96,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "4":{
-  "id": "4",
+  "9":{
+  "id": "9",
   "name": "GOSPEL MOVIES",
   "description": "Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
   "live_url": "https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8",
@@ -60,8 +108,20 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "5":{
-  "id": "5",
+  "10":{ 
+  "id":"10",
+  "name":"LIFETIME",
+  "description":"05",
+  "live_url":"http://fl2.moveonjoy.com/LIFETIME/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }, 
+  "11":{
+  "id":"11",
   "name": "WILDSIDE TV",
   "description": "Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8",
@@ -72,8 +132,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "6":{
-  "id": "6",
+  "12":{
+  "id": "12",
   "name": "CINE MAX",
   "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8",
@@ -84,8 +144,8 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "7":{
-  "id": "7",
+  "13":{
+  "id": "13",
   "name": "A 12 MOVIES",
   "description": "A 12 TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8",
@@ -96,8 +156,20 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "8":{
-  "id": "8",
+  "14":{ 
+  "id":"14",
+  "name":"LIFETIME",
+  "description":"05",
+  "live_url":"http://fl2.moveonjoy.com/LIFETIME/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }, 
+  "15":{
+  "id": "15",
   "name": "TELE PUISSANCE",
   "description": "Radio Tele Puissance TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8560/8560/chunklist.m3u8",
@@ -108,12 +180,108 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-   "9":{
-  "id": "9",
+  "16":{ 
+  "id":"16",
+  "name":"SHOWTIME TV",
+  "description":"05",
+  "live_url":"http://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzgzOTRf/showtimemaximum.jpg",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  }, 
+  "17":{ 
+  "id":"17",
+  "name":"SHOWTIME 2",
+  "description":"05",
+  "live_url":"http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzgzOTdf/showtime2.png",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },  
+  "18":{ 
+  "id":"18",
+  "name":"SHOWTIME EXTREME",
+  "description":"05",
+  "live_url":"http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzg0MDJf/showtimeExtreme.png",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },  
+  "19":{ 
+  "id":"19",
+  "name":"SHOWTIME NEXT",
+  "description":"05",
+  "live_url":"http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgwNzg0MDVf/showtimenext.png",
+  "categorie":"MOVIES",
+  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },  
+  "20":{
+  "id": "20",
   "name": "SUPERSCREEN TV",
   "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg",
+  "categorie": "MOVIES",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "21":{
+  "id": "21",
+  "name": "SONY MOVIES",
+  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "live_url": "http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgwNzg0Mzdf/sonymovies.jpg",
+  "categorie": "MOVIES",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "22":{
+  "id": "22",
+  "name": "STARZ WESTERNS",
+  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "live_url": "http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgwNzg0NjNf/starzWesterns.jpg",
+  "categorie": "MOVIES",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "23":{
+  "id": "23",
+  "name": "MOREMAX",
+  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "live_url": "http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgwNzg3MTVf/moremax.png",
+  "categorie": "MOVIES",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "24":{
+  "id": "24",
+  "name": "CINE-WEST",
+  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "live_url": "http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgwNzg3NTlf/cinewest.png",
   "categorie": "MOVIES",
   "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
