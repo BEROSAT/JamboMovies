@@ -1,6 +1,6 @@
 # JamboMovies
 {
-  "1":{
+  "0":{
   "id":"1",
   "name":"MYTIME MOVIES",
   "description":"01",
@@ -12,7 +12,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
- "2":{ 
+ "1":{ 
   "id":"2",
   "name":"HBO TV",
   "description":"02",
@@ -24,7 +24,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "3":{ 
+  "2":{ 
   "id":"3",
   "name":"HBO 2",
   "description":"03",
@@ -36,7 +36,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "4":{ 
+  "3":{ 
   "id":"4",
   "name":"HBO COMEDY",
   "description":"04",
@@ -48,7 +48,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }, 
-  "5":{ 
+  "4":{ 
   "id":"5",
   "name":"HBO FAMILY",
   "description":"05",
@@ -60,7 +60,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }, 
-  "6":{
+  "5":{
   "id": "6",
   "name": "CINE MAX",
   "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -72,7 +72,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "7":{
+  "6":{
   "id": "7",
   "name": "PLEX TV",
   "description": "PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -84,7 +84,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "8":{
+  "7":{
   "id": "8",
   "name": "FILM FICTION",
   "description": "Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -96,7 +96,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "9":{
+  "8":{
   "id": "9",
   "name": "GOSPEL MOVIES",
   "description": "Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
@@ -108,7 +108,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "10":{ 
+  "9":{ 
   "id":"10",
   "name":"LIFETIME",
   "description":"05",
@@ -120,7 +120,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }, 
-  "11":{
+  "10":{
   "id":"11",
   "name": "WILDSIDE TV",
   "description": "Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -132,7 +132,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "12":{
+  "11":{
   "id": "12",
   "name": "CINE MAX",
   "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -144,7 +144,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "13":{
+  "12":{
   "id": "13",
   "name": "A 12 MOVIES",
   "description": "A 12 TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -156,7 +156,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "14":{ 
+  "13":{ 
   "id":"14",
   "name":"LIFETIME",
   "description":"05",
@@ -168,7 +168,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }, 
-  "15":{
+  "14":{
   "id": "15",
   "name": "TELE PUISSANCE",
   "description": "Radio Tele Puissance TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
@@ -180,7 +180,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "16":{ 
+  "15":{ 
   "id":"16",
   "name":"SHOWTIME TV",
   "description":"05",
@@ -192,7 +192,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   }, 
-  "17":{ 
+  "16":{ 
   "id":"17",
   "name":"SHOWTIME 2",
   "description":"05",
@@ -204,7 +204,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },  
-  "18":{ 
+  "17":{ 
   "id":"18",
   "name":"SHOWTIME EXTREME",
   "description":"05",
@@ -216,7 +216,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },  
-  "19":{ 
+  "18":{ 
   "id":"19",
   "name":"SHOWTIME NEXT",
   "description":"05",
@@ -228,7 +228,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },  
-  "20":{
+  "19":{
   "id": "20",
   "name": "SUPERSCREEN TV",
   "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -240,7 +240,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "21":{
+  "20":{
   "id": "21",
   "name": "SONY MOVIES",
   "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -252,7 +252,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "22":{
+  "21":{
   "id": "22",
   "name": "STARZ WESTERNS",
   "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -264,7 +264,7 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "23":{
+  "22":{
   "id": "23",
   "name": "MOREMAX",
   "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
@@ -276,8 +276,20 @@
   "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
   "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
-  "24":{
+  "23":{
   "id": "24",
+  "name": "CINE-WEST",
+  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "live_url": "http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfNzgwNzg3NTlf/cinewest.png",
+  "categorie": "MOVIES",
+  "facebook": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
+  },
+  "24":{
+  "id": "25",
   "name": "CINE-WEST",
   "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
   "live_url": "http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8",
