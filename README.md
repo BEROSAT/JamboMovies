@@ -3,7 +3,7 @@
   "0":{
   "id":"1",
   "name":"MYTIME MOVIES",
-  "description":"01",
+  "description":"601",
   "live_url":"https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8",
   "thumbnail":"https://od.lk/s/M18yODYzNTkzODRf/mytimemovie.jpeg",
   "categorie":"MOVIES",
@@ -15,7 +15,7 @@
  "1":{ 
   "id":"2",
   "name":"HBO TV",
-  "description":"02",
+  "description":"602",
   "live_url":"http://fl5.moveonjoy.com/HBO/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc1NTBf/HBO.jpg",
   "categorie":"MOVIES",
@@ -27,7 +27,7 @@
   "2":{ 
   "id":"3",
   "name":"HBO 2",
-  "description":"03",
+  "description":"603",
   "live_url":"http://fl5.moveonjoy.com/HBO_2/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc2MzRf/HBO2TV.png",
   "categorie":"MOVIES",
@@ -39,7 +39,7 @@
   "3":{ 
   "id":"4",
   "name":"HBO COMEDY",
-  "description":"04",
+  "description":"604",
   "live_url":"http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc3MTRf/hboComedy.jpg",
   "categorie":"MOVIES",
@@ -51,7 +51,7 @@
   "4":{ 
   "id":"5",
   "name":"HBO FAMILY",
-  "description":"05",
+  "description":"605",
   "live_url":"http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc4MTRf/hbofamily.png",
   "categorie":"MOVIES",
@@ -63,7 +63,7 @@
   "5":{
   "id": "6",
   "name": "CINE MAX",
-  "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "606",
   "live_url": "https://video1.getstreamhosting.com:1936/8446/8446/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5MjVf/cinmax.jpeg",
   "categorie": "MOVIES",
@@ -75,7 +75,7 @@
   "6":{
   "id": "7",
   "name": "PLEX TV",
-  "description": "PLEX TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "607",
   "live_url": "http://41.223.30.250:5000/plextv/@plextv/chunklist_w319266551.m3u8",
   "thumbnail": "https://od.lk/s/M18yODA5OTk4NTRf/plex.png",
   "categorie": "MOVIES",
@@ -87,7 +87,7 @@
   "7":{
   "id": "8",
   "name": "FILM FICTION",
-  "description": "Rakuten Fiction est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "608",
   "live_url": "https://rakuten-films-francais-1-eu.rakuten.wurl.tv/2000.m3u8",
   "thumbnail": "https://od.lk/s/M18yODY5NTM5MTVf/fiction.jpg",
   "categorie": "MOVIES",
@@ -99,7 +99,7 @@
   "8":{
   "id": "9",
   "name": "GOSPEL MOVIES",
-  "description": "Gospel Movies TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
+  "description": "609",
   "live_url": "https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8",
   "thumbnail": "https://od.lk/s/M18yODYzNjU3MzNf/gospelmovie.jpeg",
   "categorie": "MOVIES",
@@ -111,7 +111,7 @@
   "9":{ 
   "id":"10",
   "name":"LIFETIME",
-  "description":"05",
+  "description":"610",
   "live_url":"http://fl2.moveonjoy.com/LIFETIME/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
   "categorie":"MOVIES",
@@ -123,7 +123,7 @@
   "10":{
   "id":"11",
   "name": "WILDSIDE TV",
-  "description": "Wildside TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "611",
   "live_url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/2000.m3u8",
   "thumbnail": "https://od.lk/s/M18yODY5NTM4MzZf/wildside.png",
   "categorie": "MOVIES",
@@ -135,7 +135,7 @@
   "11":{
   "id": "12",
   "name": "CINE MAX",
-  "description": "Cine Max Movie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "612",
   "live_url": "https://video1.getstreamhosting.com:1936/8432/8432/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5MjRf/cinemaxs.jpeg",
   "categorie": "MOVIES",
@@ -147,7 +147,7 @@
   "12":{
   "id": "13",
   "name": "A 12 MOVIES",
-  "description": "A 12 TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "613",
   "live_url": "https://video1.getstreamhosting.com:1936/8250/8250/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNzM5OTUzNDdf/atwelve.jpg",
   "categorie": "MOVIES",
@@ -159,7 +159,7 @@
   "13":{ 
   "id":"14",
   "name":"CINE-EAST",
-  "description":"05",
+  "description":"614",
   "live_url":"http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzg4NTRf/cineEast.jpg",
   "categorie":"MOVIES",
@@ -171,7 +171,7 @@
   "14":{
   "id": "15",
   "name": "TELE PUISSANCE",
-  "description": "Radio Tele Puissance TV est une chaîne télévisée spécialisée aux FILMS chrétiens, fictions et autres",
+  "description": "615",
   "live_url": "https://video1.getstreamhosting.com:1936/8560/8560/chunklist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5MzBf/radiotelepuissance.png",
   "categorie": "MOVIES",
@@ -183,7 +183,7 @@
   "15":{ 
   "id":"16",
   "name":"SHOWTIME TV",
-  "description":"05",
+  "description":"616",
   "live_url":"http://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzgzOTRf/showtimemaximum.jpg",
   "categorie":"MOVIES",
@@ -195,7 +195,7 @@
   "16":{ 
   "id":"17",
   "name":"SHOWTIME 2",
-  "description":"05",
+  "description":"617",
   "live_url":"http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzgzOTdf/showtime2.png",
   "categorie":"MOVIES",
@@ -207,7 +207,7 @@
   "17":{ 
   "id":"18",
   "name":"SHOWTIME EXTREME",
-  "description":"05",
+  "description":"618",
   "live_url":"http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzg0MDJf/showtimeExtreme.png",
   "categorie":"MOVIES",
@@ -219,7 +219,7 @@
   "18":{ 
   "id":"19",
   "name":"SHOWTIME NEXT",
-  "description":"05",
+  "description":"619",
   "live_url":"http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzg0MDVf/showtimenext.png",
   "categorie":"MOVIES",
@@ -231,7 +231,7 @@
   "19":{
   "id": "20",
   "name": "SUPERSCREEN TV",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "620",
   "live_url": "https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODEwMDA0MzZf/superscreen.jpg",
   "categorie": "MOVIES",
@@ -243,7 +243,7 @@
   "20":{
   "id": "21",
   "name": "SONY MOVIES",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "621",
   "live_url": "http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg0Mzdf/sonymovies.jpg",
   "categorie": "MOVIES",
@@ -255,7 +255,7 @@
   "21":{
   "id": "22",
   "name": "STARZ WESTERNS",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "622",
   "live_url": "http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg0NjNf/starzWesterns.jpg",
   "categorie": "MOVIES",
@@ -267,7 +267,7 @@
   "22":{
   "id": "23",
   "name": "MOREMAX",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "623",
   "live_url": "http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg3MTVf/moremax.png",
   "categorie": "MOVIES",
@@ -279,7 +279,7 @@
   "23":{
   "id": "24",
   "name": "CINE-WEST",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "624",
   "live_url": "http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg3NTlf/cinewest.png",
   "categorie": "MOVIES",
@@ -291,7 +291,7 @@
   "24":{
   "id": "25",
   "name": "AMC NETWORK",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "625",
   "live_url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg4ODFf/amcnetwork.jpg",
   "categorie": "MOVIES",
@@ -303,7 +303,7 @@
   "25":{
   "id": "26",
   "name": "ABC TV",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "626",
   "live_url": "http://fl1.moveonjoy.com/ABC_EAST/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg5OTJf/ABCTV.jpg",
   "categorie": "MOVIES",
@@ -315,7 +315,7 @@
   "26":{
   "id": "27",
   "name": "EPIX TV",
-  "description": "SUPERSCREEN TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres",
+  "description": "627",
   "live_url": "http://fl2.moveonjoy.com/EPIX/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzkxMjFf/EPIX.jpg",
   "categorie": "MOVIES",
