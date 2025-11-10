@@ -220,7 +220,7 @@
   "id": "25",
   "name": "AMC NETWORK",
   "number":"625",
-  "description": "625",
+  "description": " AMC Network est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
   "live_url": "http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg4ODFf/amcnetwork.jpg",
   "categorie": "MOVIES"
@@ -229,7 +229,7 @@
   "id": "26",
   "name": "ABC TV",
   "number":"626",
-  "description": "626",
+  "description": "ABC TV est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
   "live_url": "http://fl1.moveonjoy.com/ABC_EAST/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg5OTJf/ABCTV.jpg",
   "categorie": "MOVIES"
@@ -238,9 +238,135 @@
   "id": "27",
   "name": "EPIX TV",
   "number":"627",
-  "description": "627",
+  "description": "Epix tv est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
   "live_url": "http://fl1.moveonjoy.com/EPIX/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzkxMjFf/EPIX.jpg",
+  "categorie": "MOVIES"
+  },
+  "27":{
+  "id": "28",
+  "name": "NOVO CINEMA",
+  "number":"628",
+  "description": "Noovo Cinema est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://dk4ogs46bjxcw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr1ct045l70mz/Noovo_Cinema.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NDQzNzBf/noovoCinema.jpeg",
+  "categorie": "MOVIES"
+  },
+  "28":{
+  "id": "29",
+  "name": "NOVO COMEDIES",
+  "number":"629",
+  "description": "Noovo Comedie est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://d2s8iafdyzconc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6x2p3ho0vw00a/Noovo_Comedies_Home.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NDQzNzBf/noovoCinema.jpeg",
+  "categorie": "MOVIES"
+  },
+  "29":{
+  "id": "30",
+  "name": "PARAMOUNT NETWORK",
+  "number":"630",
+  "description": "Paramounth Network est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NTEyNDlf/paramounthNetwork.jpeg",
+  "categorie": "MOVIES"
+  },
+  "30":{
+  "id": "31",
+  "name": "RAKUTEN COBRA",
+  "number":"631",
+  "description": "Rakuten Cobra est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NTM2Mjdf/rakutenCobra.png",
+  "categorie": "MOVIES"
+  },
+  "31":{
+  "id": "32",
+  "name": "RAKUTEN ACTION",
+  "number":"632",
+  "description": "Rakuten Action France est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NTQwOTRf/rakutenActionFrance.jpeg",
+  "categorie": "MOVIES"
+  },
+  "32":{
+  "id": "33",
+  "name": "RAKUTEN COMEDIES",
+  "number":"633",
+  "description": "Rakuten Comedies est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NTQzNTNf/rakutenComedy.jpeg",
+  "categorie": "MOVIES"
+  },
+  "33":{
+  "id": "34",
+  "name": "RAKUTEN DRAMA",
+  "number":"634",
+  "description": "Rakuten Drama est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NTU1MzFf/rakutenDrama.jpeg",
+  "categorie": "MOVIES"
+  },
+  "34":{
+  "id": "35",
+  "name": "RAKUTEN FAMILLE",
+  "number":"635",
+  "description": "Rakuten Famille est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NTc2NjNf/rakutenFamille.jpeg",
+  "categorie": "MOVIES"
+  },
+  "35":{
+  "id": "36",
+  "name": "RAKUTEN ROMANCE",
+  "number":"636",
+  "description": "Rakuten Romance est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NTg5MTBf/rakutenRomance.jpeg",
+  "categorie": "MOVIES"
+  },
+  "36":{
+  "id": "37",
+  "name": "RAKUTEN TOP MOVIES",
+  "number":"637",
+  "description": "Rakuten Top Movies est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NjAwMDNf/rakutenTopMovie.jpeg",
+  "categorie": "MOVIES"
+  },
+  "37":{
+  "id": "38",
+  "name": "RAKUTEN VIKI",
+  "number":"638",
+  "description": "Rakuten Viki est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NjIwMjJf/rakutenViki.jpeg",
+  "categorie": "MOVIES"
+  },
+  "38":{
+  "id": "39",
+  "name": "CINE NANAR",
+  "number":"639",
+  "description": "Zylo Cine Nanar est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NjQzNzJf/cineNanar.jpeg",
+  "categorie": "MOVIES"
+  },
+  "39":{
+  "id": "40",
+  "name": "CINE WESTERN",
+  "number":"640",
+  "description": "Zylo Cine Western est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NjY2NDBf/cinewestern.jpeg",
+  "categorie": "MOVIES"
+  },
+  "40":{
+  "id": "41",
+  "name": "CINE SCREAM IN",
+  "number":"640",
+  "description": "Zylo Cine ScreamIN est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NjY2NDBf/cinewestern.jpeg",
   "categorie": "MOVIES"
   }
 }
