@@ -14,7 +14,7 @@
   "name":"HBO TV",
   "number":"602",
   "description":"602",
-  "live_url":"http://fl5.moveonjoy.com/HBO/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/HBO/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc1NTBf/HBO.jpg",
   "categorie":"MOVIES"
   },
@@ -23,7 +23,7 @@
   "name":"HBO 2",
   "number":"603",
   "description":"603",
-  "live_url":"http://fl5.moveonjoy.com/HBO_2/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/HBO_2/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc2MzRf/HBO2TV.png",
   "categorie":"MOVIES"
   },
@@ -32,7 +32,7 @@
   "name":"HBO COMEDY",
   "number":"604",
   "description":"604",
-  "live_url":"http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc3MTRf/hboComedy.jpg",
   "categorie":"MOVIES"
   }, 
@@ -41,7 +41,7 @@
   "name":"HBO FAMILY",
   "number":"605",
   "description":"605",
-  "live_url":"http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc4MTRf/hbofamily.png",
   "categorie":"MOVIES"
   }, 
@@ -86,7 +86,7 @@
   "name":"LIFETIME",
   "number":"610",
   "description":"610",
-  "live_url":"http://fl2.moveonjoy.com/LIFETIME/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/LIFETIME/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc4OTZf/lifetime.png",
   "categorie":"MOVIES"
   }, 
@@ -122,7 +122,7 @@
   "name":"CINE-EAST",
   "number":"614",
   "description":"614",
-  "live_url":"http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzg4NTRf/cineEast.jpg",
   "categorie":"MOVIES"
   }, 
@@ -140,7 +140,7 @@
   "name":"SHOWTIME TV",
   "number":"616",
   "description":"616",
-  "live_url":"http://fl2.moveonjoy.com/SHOWTIME/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/SHOWTIME/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzgzOTRf/showtimemaximum.jpg",
   "categorie":"MOVIES"
   }, 
@@ -149,7 +149,7 @@
   "name":"SHOWTIME 2",
   "number":"617",
   "description":"617",
-  "live_url":"http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzgzOTdf/showtime2.png",
   "categorie":"MOVIES"
   },  
@@ -158,7 +158,7 @@
   "name":"SHOWTIME EXTREME",
   "number":"618",
   "description":"618",
-  "live_url":"http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzg0MDJf/showtimeExtreme.png",
   "categorie":"MOVIES"
   },  
@@ -167,7 +167,7 @@
   "name":"SHOWTIME NEXT",
   "number":"619",
   "description":"619",
-  "live_url":"http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
+  "live_url":"http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzg0MDVf/showtimenext.png",
   "categorie":"MOVIES"
   },  
@@ -185,7 +185,7 @@
   "name": "SONY MOVIES",
   "number":"621",
   "description": "621",
-  "live_url": "http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg0Mzdf/sonymovies.jpg",
   "categorie": "MOVIES"
   },
@@ -194,7 +194,7 @@
   "name": "STARZ WESTERNS",
   "number":"622",
   "description": "622",
-  "live_url": "http://fl5.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg0NjNf/starzWesterns.jpg",
   "categorie": "MOVIES"
   },
@@ -203,7 +203,7 @@
   "name": "MOREMAX",
   "number":"623",
   "description": "623",
-  "live_url": "http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg3MTVf/moremax.png",
   "categorie": "MOVIES"
   },
@@ -212,7 +212,7 @@
   "number":"624",
   "name": "CINE-WEST",
   "description": "624",
-  "live_url": "http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg3NTlf/cinewest.png",
   "categorie": "MOVIES"
   },
@@ -221,7 +221,7 @@
   "name": "AMC NETWORK",
   "number":"625",
   "description": "625",
-  "live_url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzg4ODFf/amcnetwork.jpg",
   "categorie": "MOVIES"
   },
@@ -239,7 +239,7 @@
   "name": "EPIX TV",
   "number":"627",
   "description": "627",
-  "live_url": "http://fl2.moveonjoy.com/EPIX/index.m3u8",
+  "live_url": "http://fl1.moveonjoy.com/EPIX/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNzgwNzkxMjFf/EPIX.jpg",
   "categorie": "MOVIES"
   }
