@@ -366,7 +366,7 @@
   "number":"640",
   "description": "Zylo Cine ScreamIN est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
   "live_url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
-  "thumbnail": "https://od.lk/s/NDZfODg1NjY2NDBf/cinewestern.jpeg",
+  "thumbnail": "https://od.lk/s/NDZfODg1NzQ1MTNf/screamIN.png",
   "categorie": "MOVIES"
   },
   "41":{
