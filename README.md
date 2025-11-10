@@ -368,6 +368,42 @@
   "live_url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8",
   "thumbnail": "https://od.lk/s/NDZfODg1NjY2NDBf/cinewestern.jpeg",
   "categorie": "MOVIES"
+  },
+  "41":{
+  "id": "42",
+  "name": "FILMS 4",
+  "number":"641",
+  "description": "Films 4 est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NjkxOTZf/film4.jpeg",
+  "categorie": "MOVIES"
+  },
+  "42":{
+  "id": "43",
+  "name": "MYTIME MOVIES NETWORK",
+  "number":"642",
+  "description": "MyTime Movies Network est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NzA0NjJf/mytimeMovieNetwork.jpeg",
+  "categorie": "MOVIES"
+  },
+  "43":{
+  "id": "44",
+  "name": "RAKUTEN ROMANCE EN",
+  "number":"643",
+  "description": "Rakuten Romance English est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NzE0NDVf/rakutenRomanceUK.jpeg",
+  "categorie": "MOVIES"
+  },
+  "44":{
+  "id": "45",
+  "name": "CINE LIFE",
+  "number":"644",
+  "description": "Cine Life est une chaîne télévisée spécialisée aux FILMS d'actions, fictions et autres pour votre dissernements",
+  "live_url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/NDZfODg1NzE4MDRf/cinelife.png",
+  "categorie": "MOVIES"
   }
 }
 
