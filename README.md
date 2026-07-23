@@ -17,7 +17,7 @@
   "live_url":"http://fl1.moveonjoy.com/HBO/index.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgwNzc1NTBf/HBO.jpg",
   "categorie":"MOVIES"
-  }
+  },
   "2":{ 
   "id":"3",
   "name":"HBO 2",
